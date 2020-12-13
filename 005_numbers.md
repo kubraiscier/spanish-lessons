@@ -34,7 +34,7 @@ English | Spanish
 29  | veintinueve
 30  | treinta
 34  | treinta y cuatro
-40  | cuerenta
+40  | cuarenta
 50  | cincuenta 
 56  | cincuenta y seis
 60  | sesenta

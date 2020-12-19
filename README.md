@@ -14,7 +14,13 @@
 
 [7. Greetings](007_greetings.md)
 
+[8. The Verb SER](008_the_verb_ser.md)
 
+[9. Adjectives Used With SER](009_adjectives_used_with_ser.md)
+
+[10. Understanding The Word "Like"](010_understanding_the_word_like.md)
+
+[11. Indefinite & Definite Articles (a,an,the,some)](011_indefinite_and_definite_articles.md)
 
 
 ## Thanks to Dr. Danny Evans Youtube Channel

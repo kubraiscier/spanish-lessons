@@ -10,7 +10,7 @@ English           | Spanish
 ----------------- | ---------------------------
 school            | escuela
 school related    | escolar
-school supplies   | los materiales ecolares
+school supplies   | los materiales escolares
 the pencil        | el lápiz 
 the pencils       | los lápices
 the pen           | la pluma

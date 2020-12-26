@@ -1,6 +1,6 @@
 ### How to Tell Time
 
-$~$
+</br>
 
 Rule:
 
@@ -9,7 +9,7 @@ Rule:
 * If we are saying at in english we say `a` in spanish
 * for thirty we use `media`
 
-$~$
+</br>
 
 English                | Spanish            
 ---------------------- | ---------------------------

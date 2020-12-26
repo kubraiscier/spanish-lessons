@@ -1,10 +1,10 @@
 ### Learning AR Verbs
 
-$~$
+</br>
 
 * We take of `ar` ending and complete it with correct ending which matches the personal pronouns
 
-$~$
+</br>
 
 #### Rule
 -------------
@@ -15,7 +15,7 @@ i/we               | -o        | -amos
 you/all of you     | -as       | -áis
 he-she-you/they    | -a        | -an
 
-$~$
+</br>
 
 #### hablar(to speak)
 
@@ -27,8 +27,7 @@ i/we               | hablo        | hablamos
 you/all of you     | hablas       | habláis
 he-she-you/they    | habla        | hablan
 
-
-$~$
+</br>
 
 #### nadar(to swim)
 

@@ -28,6 +28,11 @@
 
 [14. How to Tell Time](014_how_to_tell_time.md)
 
+[15. Spanish Contractions AL and DEL](015_spanish_contractions_al_and_del.md)
+
+[16. Understanding the Verb "IR" (To Go) in Spanish](016_understanding_the_verb_ir.md)
+
+[17. School Vocabulary Words](017_school_vocabulary_words.md)
 
 ## Thanks to Dr. Danny Evans Youtube Channel
 

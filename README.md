@@ -22,6 +22,12 @@
 
 [11. Indefinite & Definite Articles (a,an,the,some)](011_indefinite_and_definite_articles.md)
 
+[12. Understanding the Verb ESTAR](012_understanding_the_verb_estar.md)
+
+[13. Learning AR Verbs](013_learning_ar_verbs.md)
+
+[14. How to Tell Time](014_how_to_tell_time.md)
+
 
 ## Thanks to Dr. Danny Evans Youtube Channel
 

@@ -34,6 +34,9 @@
 
 [17. School Vocabulary Words](017_school_vocabulary_words.md)
 
+[18. Clothing Words](018_clothing_words.md)
+
+
 ## Thanks to Dr. Danny Evans Youtube Channel
 
 [TheLanguageTutor](https://www.youtube.com/c/TheLanguageTutor)

@@ -36,6 +36,10 @@
 
 [18. Clothing Words](018_clothing_words.md)
 
+[19. School Subjects](019_school_subjects.md)
+
+[20. Understanding ER and IR Verbs](020_understanding_er_and_ir_verbs.md)
+
 
 ## Thanks to Dr. Danny Evans Youtube Channel
 

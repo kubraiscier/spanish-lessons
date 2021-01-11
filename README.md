@@ -40,6 +40,8 @@
 
 [20. Understanding ER and IR Verbs](020_understanding_er_and_ir_verbs.md)
 
+[21. Understanding Irregular Verbs](021_understanding_irregular_verbs.md)
+
 
 [Vocabulary](Vocabulary.md)
 

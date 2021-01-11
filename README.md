@@ -41,6 +41,8 @@
 [20. Understanding ER and IR Verbs](020_understanding_er_and_ir_verbs.md)
 
 
+[Vocabulary](Vocabulary.md)
+
 ## Thanks to Dr. Danny Evans Youtube Channel
 
 [TheLanguageTutor](https://www.youtube.com/c/TheLanguageTutor)

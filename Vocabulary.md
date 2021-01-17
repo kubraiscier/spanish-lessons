@@ -39,4 +39,39 @@ Pardon me      | Perdón
 You are welcome| De nada
 Please         | Por favor
 
+</br> 
+
+#### Chapter 3
+-------------
+English        | Spanish            
+-------------- | -----------
+to need        | necesitar
+my             | mi
+taxi           | taxi
+suitcase       | maleta
+passport       | pasaporte
+phone          | teléfono
+reservation    | reserva
+here           | aquí
+to have        | tener
+a              | un/una
+where          | dónde
+hotel          | hotel
+it is          | esta
+the            | el/la
+airport        | aeropuerto
+in             | en
+your           | tu
+to             | a
+money          | dinero
+train          | tren
+ticket         | boleto
+bus            | autobús
+street         | calle
+bathroom       | baño
+closed         | cerrado
+museum         | museo
+supermarket    | supermarcado
+bank           | banco
+hospital       | hospital
 

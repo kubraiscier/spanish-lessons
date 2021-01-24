@@ -75,3 +75,35 @@ supermarket    | supermarcado
 bank           | banco
 hospital       | hospital
 
+</br> 
+
+#### Chapter 4
+-------------
+English        | Spanish            
+-------------- | -----------
+people         | persona
+one            | uno
+two            | dos
+three          | tres
+table          | mesa
+burger         | hamburguesa
+meat           | carne
+cheese         | queso
+fish           | pescado
+sandwich       | sandwich
+coffee         | café
+sugar          | azúcar
+cup            | taza
+orange juice   | jugo de naranja
+glass          | vaso
+salt           | sal
+tomato         | tomate
+salad          | ensalada
+to want        | quierer
+to pay         | pagar
+check          | cuenta
+for            | para
+of             | de
+or             | o
+with           | con
+without        | sin

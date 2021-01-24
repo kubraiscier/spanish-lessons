@@ -46,6 +46,8 @@
 
 [23. Family Members](023_family_members.md)
 
+[24. Understanding "-IE" Stem Changing Verbs](024_understanding_ie_stem_changing_verbs.md)
+
 
 [Vocabulary](Vocabulary.md)
 

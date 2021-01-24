@@ -48,6 +48,7 @@
 
 [24. Understanding "-IE" Stem Changing Verbs](024_understanding_ie_stem_changing_verbs.md)
 
+[25. Understanding "-UE" Stem Changing Verbs](025_understanding_ue_stem_changing_verbs.md)
 
 [Vocabulary](Vocabulary.md)
 

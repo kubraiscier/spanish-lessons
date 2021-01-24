@@ -99,7 +99,7 @@ glass          | vaso
 salt           | sal
 tomato         | tomate
 salad          | ensalada
-to want        | quierer
+to want        | querer
 to pay         | pagar
 check          | cuenta
 for            | para

@@ -107,3 +107,36 @@ of             | de
 or             | o
 with           | con
 without        | sin
+
+</br> 
+
+#### Chapter 5
+-------------
+English        | Spanish            
+-------------- | -----------
+car            | carro
+elegant        | elegante
+mother         | madre
+father         | padre
+intelligent    | inteligente
+house          | casa
+very           | muy
+dog            | perro
+cat            | gato
+big            | grande
+brother        | hermano
+sister         | hermana
+grandmother    | abuela
+grandfather    | abuelo
+pretty         | bonito
+wife           | esposa
+husband        | esposo
+apartment      | apartamento
+family         | familia
+perfect        | perfecto
+daughter       | hija
+son            | hijo
+to live        | vivir
+interesting    | interesante
+bicycle        | bicicleta
+france         | francia

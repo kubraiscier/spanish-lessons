@@ -140,3 +140,37 @@ to live        | vivir
 interesting    | interesante
 bicycle        | bicicleta
 france         | francia
+
+</br> 
+
+#### Chapter 6
+-------------
+English        | Spanish            
+-------------- | -----------
+clothes        | ropa
+shirt          | camisa
+t-shirt        | camiseta
+green          | verde
+blue           | azul
+brown          | marrón
+grey           | gris
+red            | rojo
+jacket         | chaqueta
+store          | tienda
+hat            | sombrero
+dress          | vestido
+coat           | abrigo
+skirt          | falda
+belt           | cinturón
+purse          | cartera
+watch          | reloj
+gift           | regalo
+to buy         | comprar
+this           | esta
+that           | ese
+too            | demasiado
+expensive      | caro
+cheap          | barato
+different      | diferente
+comfortable    | cómodo
+favorite       | favorita

@@ -3,7 +3,7 @@
 
 </br> 
 
-#### Chapter 1
+#### Chapter 1 - Intro
 -------------
 
 English     | Spanish            
@@ -20,7 +20,7 @@ to drink    | beber
 
 </br> 
 
-#### Chapter 2
+#### Chapter 2 - Phrases
 -------------
 
 English        | Spanish            
@@ -41,7 +41,7 @@ Please         | Por favor
 
 </br> 
 
-#### Chapter 3
+#### Chapter 3 - Travel
 -------------
 English        | Spanish            
 -------------- | -----------
@@ -77,7 +77,7 @@ hospital       | hospital
 
 </br> 
 
-#### Chapter 4
+#### Chapter 4 - Restaurant
 -------------
 English        | Spanish            
 -------------- | -----------
@@ -110,7 +110,7 @@ without        | sin
 
 </br> 
 
-#### Chapter 5
+#### Chapter 5 - Family
 -------------
 English        | Spanish            
 -------------- | -----------
@@ -143,7 +143,7 @@ france         | francia
 
 </br> 
 
-#### Chapter 6
+#### Chapter 6 - Shopping
 -------------
 English        | Spanish            
 -------------- | -----------
@@ -174,3 +174,50 @@ cheap          | barato
 different      | diferente
 comfortable    | cómodo
 favorite       | favorita
+
+</br> 
+
+#### Chapter 7 - Present Tense 1
+-------------
+English        | Spanish            
+-------------- | -----------
+to speak       | hablar
+to pay         | pagar
+to drink       | beber
+to live        | vivir
+to need        | necesitar
+to want        | querer
+to eat         | comer
+to be          | estar
+to be          | ser
+to have        | tener
+to buy         | comprar
+
+
+</br> 
+
+#### Chapter 8 - School
+-------------
+English        | Spanish            
+-------------- | -----------
+teacher        | maestro
+pen            | bolígrafo
+school         | escuela
+book           | libro
+class          | clase
+easy           | fácil
+exam           | examen
+student        | estudiante
+question       | pregunta
+to read        | leer
+to write       | escribir
+to study       | estudiar
+to understand  | comprender / entender
+problem        | problema
+difficult      | difícil
+important      | importante
+a lot          | mucho
+computer       | computadora
+professor      | profesor
+medicine       | medicina
+university     | universidad

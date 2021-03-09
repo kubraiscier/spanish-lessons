@@ -221,3 +221,105 @@ computer       | computadora
 professor      | profesor
 medicine       | medicina
 university     | universidad
+
+</br> 
+
+#### Chapter 9 - People
+-------------
+English        | Spanish            
+-------------- | -----------
+China          | China
+Spain          | España
+The United States | Estados Unidos
+Mexico         | México
+American       | Americano
+name           | nombre
+Cuban          | Cubano
+Cuba           | Cuba
+
+</br> 
+
+#### Chapter 10 - Greetings
+-------------
+English        | Spanish            
+-------------- | -----------
+good           | bien
+tired          | cansado 
+how            | cómo
+mrs            | senora
+miss           | senorita
+mr             | senor
+until tomorrow | hasta manana
+see you later  | hasta luego 
+wrong          | mal
+busy           | ocupado
+happy          | feliz
+how are you    | que tal?
+how are you    | cómo estas
+
+</br> 
+
+#### Chapter 11 - Travel 2
+-------------
+English        | Spanish            
+-------------- | -----------
+banana         | banana
+tea            | té
+coffee         | cafe
+more           | más
+help           | ayuda
+to use         | usar
+wallet         | cartera  
+
+</br> 
+
+#### Chapter 12 - Schedule
+-------------
+English        | Spanish            
+-------------- | -----------
+soccer         | fútbol
+monday         | lunes
+tuesday        | martes
+wednesday      | míercoles
+thursday       | jueves
+friday         | viernes
+saturday       | sabado
+sunday         | domingo
+tomorrow       | mañana
+today          | hoy
+when           | cuando
+game           | partido
+baseball       | béisbol
+birthday       | cumpleaños
+what           | que
+day            | dia
+party          | fiesta
+fun            | divertida
+concert        | concierto
+movie          | pelicula
+enjoy          | disfruta
+dance          | baile
+week           | semana
+weekend        | fin de semana
+
+</br> 
+
+#### Chapter 13 - People 2
+-------------
+English        | Spanish            
+-------------- | -----------
+office         | oficina
+to work        | trabajar
+who            | quien
+factory        | fábrica
+wine           | vino
+England        | Inglaterra
+Europe         | Europa
+
+</br> 
+
+#### Chapter 14 - People 3
+-------------
+English        | Spanish            
+-------------- | -----------
+               | 
